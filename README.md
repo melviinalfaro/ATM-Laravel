@@ -21,5 +21,5 @@ Hacer las peticiones desde el cliente ejemplo Postman
     http://127.0.0.1:8000/api/cashier/withdraw
 
 {
-    "amoint": 200
+    "amount": 200
 }
